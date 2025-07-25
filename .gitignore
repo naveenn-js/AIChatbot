@@ -1,0 +1,16 @@
+# === Python backend ===
+pycache/
+*.py[cod]
+*.sqlite3
+venv/
+.env
+
+# === React frontend ===
+aichatfrontend/node_modules/
+aichatfrontend/.env
+aichatfrontend/dist/
+aichatfrontend/.vite/
+
+# === VS Code & system files ===
+.vscode/
+.DS_Store
