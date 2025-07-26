@@ -19,7 +19,7 @@ An **AI-powered chatbot** web application with a sleek **React** frontend and a 
 
 - **Frontend:** React, Material-UI, Axios, react-markdown, react-syntax-highlighter  
 - **Backend:** Django, Django REST Framework  
-- **AI:** (your AI model or API, e.g., OpenAI GPT or custom model)  
+- **AI:** (your AI model or API, e.g., Gemini Api or custom model)  
 - **Version Control:** Git, GitHub  
 
 ---
